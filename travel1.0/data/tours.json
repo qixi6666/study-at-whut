@@ -1,0 +1,33 @@
+[ {
+  "tourId" : "TG003",
+  "departureDate" : [ 2025, 6, 29 ],
+  "deadline" : [ 2025, 6, 20 ],
+  "maxParticipants" : 30,
+  "currentParticipants" : 29,
+  "pricePerAdult" : 1000.00,
+  "pricePerChild" : 600.00
+}, {
+  "tourId" : "TG004",
+  "departureDate" : [ 2025, 6, 1 ],
+  "deadline" : [ 2024, 5, 28 ],
+  "maxParticipants" : 25,
+  "currentParticipants" : 10,
+  "pricePerAdult" : 800.00,
+  "pricePerChild" : 500.00
+}, {
+  "tourId" : "TG001",
+  "departureDate" : [ 2025, 6, 25 ],
+  "deadline" : [ 2025, 6, 11 ],
+  "maxParticipants" : 15,
+  "currentParticipants" : 11,
+  "pricePerAdult" : 1500.00,
+  "pricePerChild" : 900.00
+}, {
+  "tourId" : "TG002",
+  "departureDate" : [ 2025, 6, 1 ],
+  "deadline" : [ 2025, 5, 20 ],
+  "maxParticipants" : 20,
+  "currentParticipants" : 5,
+  "pricePerAdult" : 1200.00,
+  "pricePerChild" : 800.00
+} ]
